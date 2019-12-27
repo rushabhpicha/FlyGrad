@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FlyGrad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="privacy_level">
+        <item>Friends</item>
+        <item>Only Me</item>
+        <item>Public</item>
+    </string-array>
+    <string name="greservice">GRE and TOEFL is the first step to start this wonderful beginning. We will help you in complete guidance
+along with the tips and tricks involved to crack these tests. Talk to us and get th entire GRE and TOEFL studying material in
+the form of PDFs and Videos for free.</string>
+    <string name="sopservice">SOP is the most crucial part when it comes to influencing the International Admissions Commitee.
+        With our extensive research we know exactly what the professor expects your SOP to be like. Let it get drafted from us at a
+        very minimal cost.
+    </string>
+    <string name="universityshortlisting">SOP is the most crucial part when it comes to influencing the International Admissions Commitee.
+        With our extensive research we know exactly what the professor expects your SOP to be like. Let it get drafted from us at a
+        very minimal cost.
+    </string>
+    <string name="visaservice">SOP is the most crucial part when it comes to influencing the International Admissions Commitee.
+        With our extensive research we know exactly what the professor expects your SOP to be like. Let it get drafted from us at a
+        very minimal cost.
+    </string>
+
+</resources>

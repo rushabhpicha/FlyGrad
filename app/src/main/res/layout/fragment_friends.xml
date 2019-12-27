@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DCDEE3"
+    android:orientation="vertical"
+    android:layout_marginTop="50dp">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/friends_rcy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/defaultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:text="Hmm \n This space looks empty . \n Try adding some friends !"
+        android:textColor="#000"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+</LinearLayout>
